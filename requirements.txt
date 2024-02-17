@@ -1,0 +1,6 @@
+langchain_google_genai
+langchain
+gradio
+facenet-pytorch
+torch
+grad-cam
